@@ -1,0 +1,11 @@
+name: TpsBar
+version: 1.0
+author: 1.19
+main: net.vertrauterdavid.TpsBar
+author: VertrauterDavid
+website: https://vertrauterdavid.net/ & https://github.com/vertrauterdavid/
+
+softdepend: [PlaceholderAPI]
+
+commands:
+  tpsbar:
