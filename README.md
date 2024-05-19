@@ -1,7 +1,5 @@
 # TpsBar
 
-<img width="60%" src="https://vertrauterdavid.net/assets/images/projects/tpsbar/1.png"><br><br>
-
 <details>
     <summary><h3 style="display: inline;">Commands</h3></summary>
 
